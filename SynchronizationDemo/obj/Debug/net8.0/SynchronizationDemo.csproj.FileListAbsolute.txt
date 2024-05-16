@@ -1,0 +1,14 @@
+D:\Projects\SynchronizationDemo\SynchronizationDemo\bin\Debug\net8.0\SynchronizationDemo.exe
+D:\Projects\SynchronizationDemo\SynchronizationDemo\bin\Debug\net8.0\SynchronizationDemo.deps.json
+D:\Projects\SynchronizationDemo\SynchronizationDemo\bin\Debug\net8.0\SynchronizationDemo.runtimeconfig.json
+D:\Projects\SynchronizationDemo\SynchronizationDemo\bin\Debug\net8.0\SynchronizationDemo.dll
+D:\Projects\SynchronizationDemo\SynchronizationDemo\bin\Debug\net8.0\SynchronizationDemo.pdb
+D:\Projects\SynchronizationDemo\SynchronizationDemo\obj\Debug\net8.0\SynchronizationDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SynchronizationDemo\SynchronizationDemo\obj\Debug\net8.0\SynchronizationDemo.AssemblyInfoInputs.cache
+D:\Projects\SynchronizationDemo\SynchronizationDemo\obj\Debug\net8.0\SynchronizationDemo.AssemblyInfo.cs
+D:\Projects\SynchronizationDemo\SynchronizationDemo\obj\Debug\net8.0\SynchronizationDemo.csproj.CoreCompileInputs.cache
+D:\Projects\SynchronizationDemo\SynchronizationDemo\obj\Debug\net8.0\SynchronizationDemo.dll
+D:\Projects\SynchronizationDemo\SynchronizationDemo\obj\Debug\net8.0\refint\SynchronizationDemo.dll
+D:\Projects\SynchronizationDemo\SynchronizationDemo\obj\Debug\net8.0\SynchronizationDemo.pdb
+D:\Projects\SynchronizationDemo\SynchronizationDemo\obj\Debug\net8.0\SynchronizationDemo.genruntimeconfig.cache
+D:\Projects\SynchronizationDemo\SynchronizationDemo\obj\Debug\net8.0\ref\SynchronizationDemo.dll
